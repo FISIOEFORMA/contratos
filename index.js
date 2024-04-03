@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DexZ Bot</title>
+    <title>Contrato Fisio E Forma</title>
     <!-- Favicon -->
     <link rel="icon" href="https://telegra.ph/file/ff1a792d6b491f260a2b4.jpg" type="image/x-icon" />
     <!-- Font Awesome icons -->
